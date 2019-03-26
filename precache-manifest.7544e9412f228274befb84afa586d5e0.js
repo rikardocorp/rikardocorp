@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/static/media/icomoon.5faeaeee.eot"
   },
   {
-    "revision": "3371ee663942f805c02e1d5a9307f2c4",
-    "url": "/static/media/icomoon.3371ee66.woff"
-  },
-  {
     "revision": "9a2fb48ebe83232d5ba4bd063c0e626c",
     "url": "/static/media/icomoon.9a2fb48e.ttf"
+  },
+  {
+    "revision": "3371ee663942f805c02e1d5a9307f2c4",
+    "url": "/static/media/icomoon.3371ee66.woff"
   },
   {
     "revision": "0b37656c64c1fb260e02",
