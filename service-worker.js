@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rikardocorp.github.io/precache-manifest.c2e7d25859162e95fd608665a0ec9d62.js"
+  "/rikardocorp/precache-manifest.af6421928feb7b42e1f532e165eee20b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/rikardocorp.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/rikardocorp/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
