@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "96cdba54a969ba2476dea4326203d7fa",
-    "url": "/rikardocorp/static/media/icomoon.96cdba54.svg"
+    "revision": "3371ee663942f805c02e1d5a9307f2c4",
+    "url": "/rikardocorp/static/media/icomoon.3371ee66.woff"
   },
   {
     "revision": "a93ea03121c59a6f7122",
@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/rikardocorp/static/media/react.6e335928.png"
   },
   {
-    "revision": "5faeaeeeb1e4c0c7ce52c44489129b98",
-    "url": "/rikardocorp/static/media/icomoon.5faeaeee.eot"
-  },
-  {
     "revision": "9a2fb48ebe83232d5ba4bd063c0e626c",
     "url": "/rikardocorp/static/media/icomoon.9a2fb48e.ttf"
   },
   {
-    "revision": "3371ee663942f805c02e1d5a9307f2c4",
-    "url": "/rikardocorp/static/media/icomoon.3371ee66.woff"
+    "revision": "96cdba54a969ba2476dea4326203d7fa",
+    "url": "/rikardocorp/static/media/icomoon.96cdba54.svg"
+  },
+  {
+    "revision": "5faeaeeeb1e4c0c7ce52c44489129b98",
+    "url": "/rikardocorp/static/media/icomoon.5faeaeee.eot"
   },
   {
     "revision": "a93ea03121c59a6f7122",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/rikardocorp/static/css/2.daf6aad3.chunk.css"
   },
   {
-    "revision": "87d392e39ed30b71a57d7c9e270ddc7e",
+    "revision": "e36bb93d94232cf1790dd3e979cc5cff",
     "url": "/rikardocorp/index.html"
   }
 ];
