@@ -40,10 +40,10 @@ class HeaderScroll extends Component {
 
         return (
             <div id="nav_bar">
-                <NavLink className="logo" to={"/home"}>
+                <a className="logo" href={"/"}>
                     <span>{this.props.initials}</span>
                     {/* <img src={photo} alt="Front-end Developer Logo, Web Developer Logo , Front End Developer Logo" /> */}
-                </NavLink>
+                </a>
                 <nav className="en">
                 {
                     links

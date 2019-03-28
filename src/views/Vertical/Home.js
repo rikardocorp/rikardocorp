@@ -24,7 +24,7 @@ class Home extends Component {
                                 <div className="content-text-zone d-flex align-items-center justify-content-end" style={{ minHeight: '100vh' }}>
                                     <TextZone className='pl-5' texto={this.props.title}>
                                         <h2>{_keywords}</h2>
-                                        <a className="flat-button" href={this.props.contact} target='_blank' rel=''>CONTÁCTAME</a>
+                                        <a className="flat-button" href={this.props.contact} target='_blank' rel=''>CONTACT ME!</a>
                                     </TextZone>
                                 </div>
 
