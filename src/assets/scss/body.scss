@@ -775,7 +775,15 @@ body {
 //     }
 // }
 
-// @media(max-width:395px) {
+@media(max-width:395px) {
+    #page {
+        .text-zone{
+            h1 {
+                font-size: 3em;
+                line-height: 1.2em;
+            }
+        }
+    }
 //     .home-page .text-zone h1 {
 //         font-size: 12vw !important;
 //         line-height: 45px !important;
@@ -800,4 +808,4 @@ body {
 //     .progress-radial .overlay i {
 //         font-size: 40px;
 //     }
-// }
+}

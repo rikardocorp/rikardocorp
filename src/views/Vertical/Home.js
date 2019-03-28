@@ -18,7 +18,7 @@ class Home extends Component {
                 <div className="photohome position-absolute"></div>
                 <div className='container-fluid'>
                     <div className="row">
-                        <div className="col col-11 col-sm-9 col-md-7 col-lg-7 col-xl-5">
+                        <div className="col col-12 col-sm-9 col-md-7 col-lg-7 col-xl-5">
                             <div className="container-vertical home-page" style={{ opacity: 1, transform: "matrix(1, 0, 0, 1, 0, 0)" }}>
                                 <span className="tags top-tags">&lt;html&gt; <br /> &nbsp;&nbsp;&nbsp;&lt;body&gt;</span>
                                 <div className="content-text-zone d-flex align-items-center justify-content-end" style={{ minHeight: '100vh' }}>
